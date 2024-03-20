@@ -10,7 +10,7 @@ Made for a competition event that tests user's mental programming abilities.
 
 <strong>Once installed, run:</strong>
 ```
-python/python3 blindcoding.py
+python3 blindcoding.py
 ```
 
 ## Candidate response
