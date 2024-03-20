@@ -1,8 +1,8 @@
 # Blindcoding
 
 ## Overview
-A simple project using tkinter library in python
-Made for a competition event that tests user's mental programming abilities
+A small project using tkinter library in python.<br>
+Made for a competition event that tests user's mental programming abilities.
 
 ## Dependencies
 - Python3
@@ -15,5 +15,5 @@ Candidate responses are appened to the file "res.bc" located inside the director
 It will be created if not found.
 
 ## Other stuff
-Uses data/Azure theme (dark) for tkinter window.
+Uses data/Azure theme (dark) for tkinter window.<br>
 Uses data/blind.ico icon for app icon.
