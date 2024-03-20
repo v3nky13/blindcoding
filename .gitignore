@@ -1,0 +1,5 @@
+.vscode
+build
+dist
+blindcoding.spec
+data/res.bc
