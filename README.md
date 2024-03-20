@@ -4,9 +4,10 @@
 A small project made using tkinter library in python.<br>
 Made for a competition event that tests user's mental programming abilities.
 
-## Dependencies
+## How to use
+<strong>To run the program you would need:</strong>
 - Python3
-- tkinter library
+- tkinter library (installed using pip3)
 
 <strong>Once installed, run:</strong>
 ```
