@@ -53,7 +53,7 @@ def main() -> None:
             donemsg.configure(text="Time's up!")
             thankyou.place(relx=0.5, rely=0.5, anchor=CENTER)
 
-    remaining_time = 15 * 60
+    remaining_time = 20 * 60
 
     def welcome_to_firstqn():
         global start_time
@@ -128,7 +128,7 @@ def main() -> None:
     next_submit_button.place(relx=1.0, rely=1.0, anchor='se', x=-10, y=-12)
 
     # thankyou
-    thankyou = Frame(root, )
+    thankyou = Frame(root)
 
     donemsg = ttk.Label(thankyou, text='You\'ve completed all questions!', font=('consolas', 16))
     donemsg.pack()
