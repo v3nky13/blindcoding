@@ -139,6 +139,9 @@ def main() -> None:
     quit = ttk.Button(thankyou, text='Quit', width=8, command=root.quit)
     quit.pack(pady=20)
 
+    createdby = ttk.Label(thankyou, text='Created by G. Venkateswar', font=('consolas', 16))
+    createdby.pack()
+
     root.mainloop()
 
 if __name__ == '__main__':
